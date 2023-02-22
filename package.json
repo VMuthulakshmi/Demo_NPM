@@ -1,5 +1,5 @@
 {
-  "name": "is_odd_check",
+  "name": "is_odd_check_demo",
   "version": "1.1.0",
   "description": "is number is odd or not",
   "main": "index.js",
@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/VMuthulakshmi/Demo_NPM/issues"
   },
-  "homepage": "https://github.com/VMuthulakshmi/Demo_NPM#readme"
+  "homepage": "https://github.com/VMuthulakshmi/Demo_NPM#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
 }
